@@ -16,11 +16,7 @@
 [![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=5EEAD4)](mailto:royalpahul@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=5EEAD4)](https://github.com/RoyalLit)
 
-<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=RoyalLit&style=flat-square&color=5EEAD4&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/RoyalLit?style=flat-square&color=5EEAD4&labelColor=0F172A&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/RoyalLit?style=flat-square&color=5EEAD4&labelColor=0F172A&label=STARS)
 
 </div>
 
