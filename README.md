@@ -211,10 +211,7 @@ A workflow-first Stream Deck alternative where an iPhone acts as remote and a Ma
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RoyalLit&show_icons=true&hide_border=true&bg_color=0F172A&title_color=5EEAD4&icon_color=5EEAD4&text_color=CBD5E1&ring_color=5EEAD4" width="49%" />
-<img src="https://streak-stats.demolab.com?user=RoyalLit&hide_border=true&background=0F172A&ring=5EEAD4&fire=5EEAD4&currStreakLabel=5EEAD4&sideLabels=CBD5E1&currStreakNum=CBD5E1&sideNums=CBD5E1&dates=64748B" width="49%" />
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RoyalLit&layout=compact&hide_border=true&bg_color=0F172A&title_color=5EEAD4&text_color=CBD5E1&langs_count=8" width="60%" />
+<img src="https://streak-stats.demolab.com?user=RoyalLit&hide_border=true&background=0F172A&ring=5EEAD4&fire=5EEAD4&currStreakLabel=5EEAD4&sideLabels=CBD5E1&currStreakNum=CBD5E1&sideNums=CBD5E1&dates=64748B" width="70%" />
 
 </div>
 
