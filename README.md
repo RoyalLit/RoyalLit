@@ -7,8 +7,7 @@
 <br/>
 
 ![Degree](https://img.shields.io/badge/B.Tech%20CSE-Amity%20University%20Punjab-313244?style=flat-square&labelColor=1E1E2E&color=A6E3A1)
-![Location](https://img.shields.io/badge/Location-Chandigarh%2FTricity%2C%20India-313244?style=flat-square&labelColor=1E1E2E&color=A6E3A1)
-![Status](https://img.shields.io/badge/Semester-4th-313244?style=flat-square&labelColor=1E1E2E&color=A6E3A1)
+![Location](https://img.shields.io/badge/Location-India-313244?style=flat-square&labelColor=1E1E2E&color=A6E3A1)
 
 <br/>
 
