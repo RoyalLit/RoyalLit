@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1E1E2E,100:313244&height=200&section=header&text=PAHUL&fontSize=60&fontColor=A6E3A1&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20UI%20Designer%20%C2%B7%20CS%20Undergrad&descSize=18&descAlignY=62&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A6E3A1&center=true&vCenter=true&width=650&lines=%24+whoami+%E2%86%92+Pahul+%7C+CS+Undergrad+%40+Amity;%24+stack+%E2%86%92+React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Supabase;%24+building+%E2%86%92+Crewmute+%7C+campus+carpool+app;%24+status+%E2%86%92+open+to+internships+%28full-stack%2C+mobile%2C+DevOps%29" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A6E3A1&center=true&vCenter=true&width=800&lines=%24+whoami+%E2%86%92+Pahul+%7C+CS+Undergrad+%40+Amity;%24+stack+%E2%86%92+React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Supabase;%24+building+%E2%86%92+Crewmute+%7C+campus+carpool+app;%24+status+%E2%86%92+open+to+internships+%28full-stack%2C+mobile%2C+DevOps%29" />
 
 <br/>
 
