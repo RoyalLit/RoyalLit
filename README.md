@@ -92,6 +92,19 @@ OPEN_TO  : Internships — Full-Stack · Mobile · DevOps
 
 ---
 
+### `$ expertise --table`
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| **Full-Stack Web** | ████████░░ Advanced | Next.js · React · Node.js · REST APIs · PostgreSQL |
+| **Auth & Security** | ████████░░ Advanced | HMAC-SHA256 JWTs · RBAC · RLS · Stealth portals |
+| **Mobile Dev** | ██████░░░░ Intermediate | React Native · Expo · Google Places · Socket.io |
+| **UI / Design Systems** | █████████░ Advanced | Figma · 4+ yrs freelance · Tailwind · shadcn/ui |
+| **Backend Architecture** | ███████░░░ Intermediate | Multi-tenant SaaS · Atomic RPCs · Audit logging |
+| **DevOps & Infra** | █████░░░░░ Learning | Vercel · Railway · GitHub Actions · Docker basics |
+
+---
+
 ### `$ featured-projects`
 
 <details open>
