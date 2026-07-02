@@ -56,7 +56,7 @@ OPEN_TO  : Internships — Full-Stack · Mobile · DevOps
 
 **Mobile**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,expo,swift,androidstudio&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,swift,androidstudio&theme=dark" />
 
 **Cloud & DevOps**
 <br/>
