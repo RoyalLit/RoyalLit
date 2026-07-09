@@ -228,7 +228,7 @@ A workflow-first Stream Deck alternative where an iPhone acts as remote and a Ma
 ### `$ activity-graph`
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RoyalLit&bg_color=1E1E2E&color=A6E3A1&line=A6E3A1&point=CDD6F4&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph-topaz.vercel.app/graph?username=RoyalLit&bg_color=1E1E2E&color=A6E3A1&line=A6E3A1&point=CDD6F4&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
