@@ -274,3 +274,4 @@ open_to:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1E2E,100:313244&height=120&section=footer" width="100%"/>
 
 </div>
+<!-- stats -->
