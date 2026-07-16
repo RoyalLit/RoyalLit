@@ -63,7 +63,7 @@ OPEN_TO  : Internships — Full-Stack · Mobile · DevOps
 
 **Tools, Testing & Design**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,jest,cypress,vscode,figma,vitest&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,jest,cypress,vscode,figma,vitest,vite&theme=dark" />
 
 ---
 
@@ -95,8 +95,9 @@ OPEN_TO  : Internships — Full-Stack · Mobile · DevOps
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| **Full-Stack Web** | ████████░░ Advanced | Next.js · React · Node.js · REST APIs · PostgreSQL |
+| **Full-Stack Web** | ████████░░ Advanced | Next.js · React · Node.js · PostgreSQL · Programmatic SEO |
 | **Auth & Security** | ████████░░ Advanced | HMAC-SHA256 JWTs · RBAC · RLS · Stealth portals |
+| **Creative Coding** | ██████░░░░ Intermediate | WebGL (OGL) · Web Audio API · MediaPipe · Canvas API |
 | **Mobile Dev** | ██████░░░░ Intermediate | React Native · Expo · Google Places · Socket.io |
 | **UI / Design Systems** | █████████░ Advanced | Figma · 4+ yrs freelance · Tailwind · shadcn/ui |
 | **Backend Architecture** | ███████░░░ Intermediate | Multi-tenant SaaS · Atomic RPCs · Audit logging |
@@ -107,6 +108,42 @@ OPEN_TO  : Internships — Full-Stack · Mobile · DevOps
 ### `$ featured-projects`
 
 <details open>
+<summary><b>🚖 LookRides — Premium Intercity Taxi Platform</b></summary>
+<br/>
+
+Live, premium intercity taxi booking platform with an enterprise-grade booking engine, programmatic SEO, and complete admin operations portal.
+
+| | |
+|---|---|
+| **Stack** | Next.js 16 · React 19 · TypeScript · Supabase · Vitest · Playwright |
+| **Scale** | 19 dynamic routes with JSON-LD, WebGL 3D carousel |
+| **Impact** | Secure PhonePe V2 checkout, zero-upfront payment, real-time dispatch |
+
+- Built an enterprise booking engine with multi-step widget and secure webhook verification
+- Engineered a programmatic SEO architecture (dynamic `sitemap.xml`, `BreadcrumbList`, `FAQPage` schema)
+- Built a secure JWT-authenticated admin dashboard with full CRUD operations and Google Reviews sync
+
+</details>
+
+<details>
+<summary><b>🌫️ Condensate — Real-Time Breath-Fog Mirror</b></summary>
+<br/>
+
+Interactive browser-based simulation that turns a webcam feed into a physical frosted mirror reacting to breath and hands.
+
+| | |
+|---|---|
+| **Stack** | React · Vite · Web Audio API · MediaPipe (Face/Hand Landmarkers) |
+| **Scale** | 60+ FPS on standard hardware entirely client-side |
+| **Impact** | Multi-modal real-time input streams (audio, computer vision) |
+
+- Engineered an acoustic breath detector using Web Audio API and highpass filters
+- Integrated MediaPipe WebAssembly for spatial fog origin and physics-inspired erasing
+- Developed a custom 3-Canvas 2D composite loop to maintain a strict 60 FPS budget
+
+</details>
+
+<details>
 <summary><b>🪪 PassOS — Multi-Tenant Campus Gatepass SaaS</b></summary>
 <br/>
 
@@ -245,8 +282,9 @@ A workflow-first Stream Deck alternative where an iPhone acts as remote and a Ma
 
 ```yaml
 building:
-  - Crewmute: campus intercity carpool app (React Native · Node.js · MongoDB)
-  - Dekkr: Mac + iPhone workflow companion app
+  - LookRides: premium intercity taxi booking platform
+  - Condensate: real-time breath-fog mirror engine
+  - Crewmute: campus intercity carpool app
 learning:
   - Node.js/Express/MongoDB from scratch (raw backend depth)
   - React Native + Expo for production mobile apps
