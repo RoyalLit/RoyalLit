@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020D12,40:0A2E20,100:1E1E2E&height=220&section=header&text=PAHUL&fontSize=65&fontColor=A6E3A1&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Developer%20%C2%B7%20UI%20Designer%20%C2%B7%20CS%20Undergrad&descSize=18&descAlignY=58" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A6E3A1&center=true&vCenter=true&width=800&lines=%24+whoami+%E2%86%92+Pahul+%7C+CS+Undergrad+%40+Amity;%24+stack+%E2%86%92+React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Supabase;%24+building+%E2%86%92+Crewmute+%7C+campus+carpool+app;%24+status+%E2%86%92+open+to+internships+%28full-stack%2C+mobile%2C+DevOps%29" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A6E3A1&center=true&vCenter=true&width=800&lines=%24+whoami+%E2%86%92+Pahul+%7C+CS+Undergrad+%40+Amity;%24+stack+%E2%86%92+React+%C2%B7+Next.js+%C2%B7+Rust+%C2%B7+Node.js+%C2%B7+Supabase+%C2%B7+Tauri;%24+building+%E2%86%92+AgentMarshal+%7C+AI+desktop+agent+installer;%24+status+%E2%86%92+open+to+internships+%28full-stack%2C+mobile%2C+DevOps%29" />
 
 <br/>
 
@@ -39,7 +39,7 @@ OPEN_TO  : Internships — Full-Stack · Mobile · DevOps
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=js,ts,py,java,c,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,py,rs,java,c,cpp&theme=dark" />
 
 **Frontend**
 <br/>
@@ -63,7 +63,7 @@ OPEN_TO  : Internships — Full-Stack · Mobile · DevOps
 
 **Tools, Testing & Design**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,jest,cypress,vscode,figma,vitest,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,tauri,jest,cypress,vscode,figma,vitest,vite&theme=dark" />
 
 ---
 
@@ -95,6 +95,7 @@ OPEN_TO  : Internships — Full-Stack · Mobile · DevOps
 
 | Domain | Proficiency | Details |
 |---|---|---|
+| **AI & Desktop Systems** | ████████░░ Advanced | AgentMarshal · Rust · Tauri v2 · Multi-Agent Personas · SQLite WAL |
 | **Full-Stack Web** | ████████░░ Advanced | Next.js · React · Node.js · PostgreSQL · Programmatic SEO |
 | **Auth & Security** | ████████░░ Advanced | HMAC-SHA256 JWTs · RBAC · RLS · Stealth portals |
 | **Creative Coding** | ██████░░░░ Intermediate | WebGL (OGL) · Web Audio API · MediaPipe · Canvas API |
@@ -108,6 +109,24 @@ OPEN_TO  : Internships — Full-Stack · Mobile · DevOps
 ### `$ featured-projects`
 
 <details open>
+<summary><b>🤖 AgentMarshal — Open-Source Multi-Agent AI Agency & Installer</b></summary>
+<br/>
+
+Open-source cross-platform (macOS, Windows, Linux) desktop application and multi-agent orchestration engine bringing 132+ specialized AI coding personas into Cursor, Claude Code, Antigravity, Windsurf, OpenCode, and Aider.
+
+| | |
+|---|---|
+| **Stack** | Rust 1.75+ · Tauri v2 · React 18 · TypeScript · SQLite (WAL-Mode) |
+| **Scale** | 132+ personas across 6 departments · Multi-IDE installer support |
+| **Impact** | Exclusive path concurrency control preventing multi-agent race conditions |
+
+- Built a native zero-bloat cross-platform desktop UI powered by Tauri v2 and React 18
+- Engineered 1-click batch installation of role-governed personas into `.cursor/rules/`, `.claudecode/rules/`, `.agents/skills/`, and `.opencode/`
+- Designed SQLite WAL-mode concurrency lock manager (`.orchestrator/state.db`) for multi-agent file access safety
+
+</details>
+
+<details>
 <summary><b>🚖 LookRides — Premium Intercity Taxi Platform</b></summary>
 <br/>
 
@@ -151,13 +170,30 @@ Live, production-grade SaaS for campus gate security with tamper-proof QR verifi
 
 | | |
 |---|---|
-| **Stack** | Next.js 15 · React 19 · TypeScript · Supabase · PostgreSQL · Vercel |
+| **Stack** | Next.js 16 · React 19 · TypeScript · Tailwind CSS 4 · Supabase · PostgreSQL |
 | **Scale** | 6-role RBAC · 100% tenant data isolation via PostgreSQL RLS |
 | **Impact** | Sub-100ms QR identity verification with offline-capable fallback |
 
 - Engineered tamper-proof gatepass engine using HMAC-SHA256 signed JWTs embedded in dynamic QR codes
 - Built a Stealth Entry portal secured via JWT metadata checks and service-role-level DB validation
 - Designed atomic PostgreSQL RPCs for gate scan transactions with full forensic audit logging (actor ID, data diffs, IP, User-Agent)
+
+</details>
+
+<details>
+<summary><b>🎵 HookLane — Spotify Track Guessing & Fandom Game</b></summary>
+<br/>
+
+Interactive web game where music fans prove their track fandom by guessing song previews across custom artist catalog difficulties.
+
+| | |
+|---|---|
+| **Stack** | React 19 · Vite 8 · JavaScript · Spotify / iTunes API · Vercel |
+| **Scale** | Dynamic artist search and instant audio preview playback |
+| **Impact** | Audio playback engine with streak scoring and social share cards |
+
+- Integrated Spotify & iTunes APIs for real-time artist track search and snippet streaming
+- Engineered audio playback state handling with timed snippets and dynamic score multipliers
 
 </details>
 
@@ -282,15 +318,16 @@ A workflow-first Stream Deck alternative where an iPhone acts as remote and a Ma
 
 ```yaml
 building:
+  - AgentMarshal: open-source multi-agent AI desktop installer & engine
   - LookRides: premium intercity taxi booking platform
   - Condensate: real-time breath-fog mirror engine
   - Crewmute: campus intercity carpool app
 learning:
-  - Node.js/Express/MongoDB from scratch (raw backend depth)
-  - React Native + Expo for production mobile apps
+  - Rust systems programming & Tauri v2 desktop architecture
+  - Raw Node.js/Express/MongoDB depth
 exploring:
+  - Multi-agent concurrency locks & AI persona governance
   - tRPC, Turborepo, Bun — modern TS tooling
-  - Real-time systems with Socket.io
 open_to:
   - Software Development Internships (Full-Stack · Mobile · DevOps)
 ```
