@@ -255,7 +255,7 @@ A workflow-first Stream Deck alternative where an iPhone acts as remote and a Ma
 ### `$ experience --log`
 
 **Numitech Solutions** · Web Development Intern
-`June 2026 — Present`
+`June 2026 — July 2026`
 `#nextjs` `#fullstack` `#internship`
 
 **Google** · Campus Ambassador
