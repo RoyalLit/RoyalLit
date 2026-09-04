@@ -145,7 +145,7 @@ Live, premium intercity taxi booking platform with an enterprise-grade booking e
 </details>
 
 <details>
-<summary><b>🌫️ Condensate — Real-Time Breath-Fog Mirror</b></summary>
+<summary><b>🌫️ Condense — Real-Time Breath-Fog Mirror</b></summary>
 <br/>
 
 Interactive browser-based simulation that turns a webcam feed into a physical frosted mirror reacting to breath and hands.
@@ -320,7 +320,7 @@ A workflow-first Stream Deck alternative where an iPhone acts as remote and a Ma
 building:
   - AgentMarshal: open-source multi-agent AI desktop installer & engine
   - LookRides: premium intercity taxi booking platform
-  - Condensate: real-time breath-fog mirror engine
+  - Condense: real-time breath-fog mirror engine
   - Crewmute: campus intercity carpool app
 learning:
   - Rust systems programming & Tauri v2 desktop architecture
